@@ -7,4 +7,4 @@ DeepVMUnpack is a tool for recovering the semantics of applications packed by VM
 
 ## Disclaimer
 
-The packed malware instances are **only for research**. Please remembter that these are live and dangerous malware. Do NOT run them unless you are absolutely sure what you are doing!
+The packed malware instances are **ONLY FOR RESEARCH**. Please remembter that these are live and dangerous malware. Do NOT run them unless you are absolutely sure what you are doing!
